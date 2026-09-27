@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Subhasheni 👋
 
-<!--
-**suvenkatesh/suvenkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the **University of Washington Bothell** with a minor in Mathematics, interested in **data science, machine learning, and building software around real-world data**.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Building data analytics projects with **Python, Pandas, NumPy, Streamlit, and Jupyter**
+- 📈 Recently built a **market analytics dashboard** covering 80+ securities with sector, volatility, and correlation analysis
+- 🤖 Exploring **machine learning, statistical modeling, and applied AI**
+- 🧠 Strengthening my foundations in **data structures, algorithms, linear algebra, probability, and statistics**
+
+### 🛠️ Tech
+
+**Languages:** Python · C/C++ · Java · JavaScript/TypeScript · SQL  
+**Data:** Pandas · NumPy · scikit-learn · Jupyter · yfinance  
+**Web:** React · Node.js · Express · FastAPI · Streamlit  
+**Tools:** Git · GitHub · Linux · Docker · VS Code
+
+### ⭐ Featured Projects
+
+#### 📈 Market Analytics Dashboard
+Python · Pandas · Streamlit · yfinance · Jupyter
+
+Built a Streamlit market analytics dashboard tracking 80+ stock tickers, using Python and Pandas to ingest, clean, cache, and visualize historical market data from yfinance API.
+

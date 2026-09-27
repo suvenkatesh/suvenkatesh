@@ -5,7 +5,7 @@ I'm a Computer Science student at the **University of Washington Bothell** with 
 ### 🔭 What I'm working on
 
 - 📊 Building data analytics projects with **Python, Pandas, NumPy, Streamlit, and Jupyter**
-- 📈 Recently built a **market analytics dashboard** covering 80+ securities with sector, volatility, and correlation analysis
+- 📈 Recently built a market analytics dashboard tracking 80+ stocks with sector, volatility, and correlation analysis
 - 🤖 Exploring **machine learning, statistical modeling, and applied AI**
 - 🧠 Strengthening my foundations in **data structures, algorithms, linear algebra, probability, and statistics**
 

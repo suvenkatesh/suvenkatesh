@@ -11,11 +11,13 @@ I'm a Computer Science student at the **University of Washington Bothell** with 
 
 ### 🛠️ Tech
 
-**Languages:** Python · C/C++ · Java · JavaScript/TypeScript · SQL
-**Data & ML:**  Pandas · NumPy · scikit-learn · Matplotlib · PyTorch · Jupyter
-**Web:** React · Node.js · Express · FastAPI · Streamlit
-**Databases:** PostgreSQL · MongoDB · Firebase
-**Tools:** Git · GitHub · Linux · Docker · VS Code
+**Languages:** Python · C/C++ · Java · JavaScript/TypeScript · SQL  
+**Data & ML:**  Pandas · NumPy · scikit-learn · Matplotlib · PyTorch · Jupyter  
+**Web:** React · Node.js · Express · FastAPI · Streamlit  
+**Databases:** PostgreSQL · MongoDB · Firebase  
+**Tools:** Git · GitHub · Linux · Docker · VS Code  
+
+
 ### ⭐ Featured Projects
 
 #### 📈 Market Analytics Dashboard

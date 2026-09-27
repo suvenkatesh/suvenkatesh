@@ -23,5 +23,4 @@ I'm a Computer Science student at the **University of Washington Bothell** with 
 #### 📈 Market Analytics Dashboard
 Python · Pandas · Streamlit · yfinance · Jupyter
 
-Built a Streamlit market analytics dashboard tracking 80+ stock tickers, using Python and Pandas to ingest, clean, cache, and visualize historical market data from yfinance API.
-
+Built a Streamlit market analytics dashboard tracking 80+ stocks, using Python and Pandas to fetch, clean, cache, analyze, and visualize historical market data with yfinance.
